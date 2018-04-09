@@ -1,6 +1,6 @@
-# Family Banking Web-based Application 
+# Family Bank Web-based Application 
 
-Family Banking is a web-based application which records saving, spending, interest, and wishes. The target audience is parents desiring to motivate their kids to save. To encourage saving, it includes an interest calculator and the ability to track progress towards affording "wishes". Created October 2017. 
+Family Bank is a web-based application which records saving, spending, interest, and wishes. The target audience is parents desiring to motivate kids to save. To encourage saving, it includes an interest calculator, a status bar summarizing principle/interest amounts, and the ability to track progress towards affording "wishes." Created October 2017. 
 
 
 Features
@@ -16,4 +16,4 @@ A resource page includes games, articles, and financial calculators.
 
 Tools
 --------------------
-Family banking uses the Microsoft ASP.NET framework with C#. It employs MVC (Model, View, Controller) and Entity Framework.
+Family Bank uses the Microsoft ASP.NET framework with C#. It employs MVC (Model, View, Controller) and Entity Framework.
