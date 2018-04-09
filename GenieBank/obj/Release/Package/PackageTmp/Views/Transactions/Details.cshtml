@@ -1,0 +1,71 @@
+﻿@model GenieBank.Models.Transaction
+
+@{
+    ViewBag.Title = "Transaction Details";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "BankAccounts", new { id = Model.BankAccountId})">Bank Account List</a></li>
+		<li><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">@Model.BankAccount.Name's Account Details</a></li>
+		<li class="active">Transaction Details</li>
+	</ol>
+</nav>
+
+<h2>Transaction Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BankAccount.OwnerEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BankAccount.OwnerEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Account)
+        </dt>
+
+        <dd>
+            @Model.BankAccount.Name
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.TransactionDate)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.TransactionDate)
+		</dd>
+
+    </dl>
+</div>
+<p>
+	@Html.ActionLink("Edit This Transaction", "Edit", new { id = Model.Id })
+</p>
+<div>
+	<p><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">Return To Account Details</a></p>
+
+</div>
+
+

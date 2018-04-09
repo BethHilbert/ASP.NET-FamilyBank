@@ -1,0 +1,91 @@
+﻿@using GenieBank.Models
+@model IEnumerable<GenieBank.Models.BankAccount>
+
+@{
+    ViewBag.Title = "Bank Account List";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li class="active"> Account List</li>
+	</ol>
+</nav>
+
+<h2>Bank Account List</h2>
+
+<p>
+    @Html.ActionLink("Create Account For New Recipient", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OwnerEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecipientEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+	    <th>
+		    @Html.DisplayNameFor(model => model.InterestRate)
+	    </th>
+	    <th>
+		    Current Balance
+	    </th>
+		<th>
+			Interest Earned
+		</th>
+	    <th>
+		    Date of Last Transaction
+	    </th>
+    </tr>
+@foreach (var item in Model.Where(x => x.OwnerEmail == User.Identity.Name || x.RecipientEmail == User.Identity.Name))
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OwnerEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RecipientEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InterestRate)
+        </td>
+		<td>
+			@item.CurrentBalanceWithInterest().ToString("C")
+		</td>
+		<td>
+			@item.YearToDateInterestEarned().ToString("C")
+		</td>
+		<td>
+			@{
+				var date = item.Transactions.OrderByDescending(t => t.TransactionDate).FirstOrDefault()?.TransactionDate.ToString("MM/dd/yyyy");
+				@date
+			}
+		</td>
+
+        <td>
+            @if(User.Identity.Name == item.OwnerEmail)
+            {
+                @Html.ActionLink("Edit |", "Edit", new { id = item.Id }) 
+            } 
+            @if (User.Identity.Name == item.OwnerEmail || User.Identity.Name == item.RecipientEmail)
+            {
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+            } 
+            @if(User.Identity.Name == item.OwnerEmail && item.CurrentBalanceWithInterest() <= 0)
+			{
+	            @Html.ActionLink("| Delete ", "Delete", new { id = item.Id })
+			}
+        </td>
+    </tr>
+}
+
+</table>
+
+<a href="@Url.Action("Index","Home")">Return To Home Page</a>

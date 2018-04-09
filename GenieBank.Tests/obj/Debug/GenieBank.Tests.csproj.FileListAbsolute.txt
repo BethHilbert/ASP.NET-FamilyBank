@@ -1,0 +1,1256 @@
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.rsp
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.exe
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.rsp
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.AppContext.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.rsp
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Owin.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.pdb
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+c:\users\bth\documents\visual studio 2017\Projects\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.rsp
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.exe
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.rsp
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\IS7012project\GenieBankv2\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csc.rsp
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.exe
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\csi.rsp
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\IS7012 project\GenieBankv3\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv4\GenieBank\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv5\GenieBank\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv7\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv9\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv12\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv14\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv15\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\IS7012 project\GenieBankv21\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv23\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankv27\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv31\GenieBankv32\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\idoin\OneDrive\Documents\Web Development - .NET\Bank Project\GenieBankv33\GenieBankv33\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\GenieBankv36\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv42\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Owin.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.pdb
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+D:\Documents\BethUC\a Additional IS7012 things\GenieBankv44\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.Tests.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\AntiXssLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Gtt.InterestCalculator.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Owin.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.pdb
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\GenieBank.dll.config
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\AntiXssLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\obj\Debug\GenieBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\obj\Debug\GenieBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\obj\Debug\GenieBank.Tests.dll
+C:\Users\bth\Documents\IS7012 project\GenieBankAlmostFinal\GenieBank.Tests\obj\Debug\GenieBank.Tests.pdb

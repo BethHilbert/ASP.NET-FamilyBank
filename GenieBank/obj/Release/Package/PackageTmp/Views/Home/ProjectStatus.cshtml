@@ -1,0 +1,87 @@
+﻿
+
+
+@{
+    ViewBag.Title = "ProjectStatus";
+}
+
+<nav class="breadcrumb">
+    <ol class="breadcrumb">
+        <li><a href="@Url.Action("Index","Home")">Home</a></li>
+        <li class="active">Project Status</li>
+    </ol>
+</nav>
+
+
+<h2>Weekly Project Status</h2>
+
+
+<h3> Final Week</h3>
+<ul>
+    <li>Antiforgery</li>
+    <li>Restrictions to controllers based on user logins</li>
+    <li>Verify routing and breadcrumbs correct</li>
+    <li>Proper routing upon Login</li>
+    <li>Hiding views based on user email</li>
+	<li>"No transactions" and "No wishes" added</li>
+</ul>
+<br />
+
+
+<h3> September 27, 2017</h3>
+<ul>
+    <li>Deleted Index for transactions</li>
+    <li>Fixed interest rate validation</li>
+    <li>Cleaned up breadcrumbs and headings</li>
+    <li>Made meaningful link information (add wish, add trans)</li>
+    <li>Fixed all save functions (so when you delete a wish it goes to BA details</li>
+    <li>Fixed all bottom of page links to return to BA details</li>
+</ul>
+<br />
+
+
+<h3> September 20, 2017</h3>
+<ul>
+    <li>Currency Conversions</li>
+    <li>CRUD filtering based on account</li>
+    <li>Display Graphic If Interest Over $10</li>
+    <li>Filtering by wish and amount </li>
+    <li>Validation for dates - transaction can't be future date or previous year, bank acccount can't be editable</li>
+    <li>Links on bottom of pages to return to account index or account list</li>
+    <li>Carousel added for bonus points</li>
+    <li>Breadcrumbs started (need to be sure it passes id)</li>
+    <li>Progress Bars for principle/interest and for amount still need for wish</li>
+
+</ul>
+<br />
+
+
+<h3> September 13, 2017</h3>
+<ul>
+    <li>Foreign key relationships</li>
+    <li>Validation for interest rate and transaction amount</li>
+    <li>Dates added for wishes and transactions (but needs validation requirements on transactions)</li>
+    <li>Added transactions and wishes to bank account details</li>
+</ul>
+<br />
+<h3> September 6, 2017</h3>
+<ul>
+    <li>Created new project for Genie Bank</li>
+    <li>Created ApplicationDbContext class</li>
+    <li>Setup database and added string to Web.config</li>
+    <li>Created basic model classes (limited validation and navigation). Note we called the bank account BankAccount to distinguish it from the account used to login to the application. </li>
+    <li>Created Project Status Page</li>
+    <li>Initial Scaffolding (for Controllers and Views)</li>
+    <li>Created Initial Menu Bar and Home Page Template</li>
+    <li>Installed AntiXSS Library</li>
+    <li>Installed Finance Package</li>
+</ul>
+
+<a href="@Url.Action("Index","Home")">Return To Home Page</a>
+
+
+
+
+
+
+

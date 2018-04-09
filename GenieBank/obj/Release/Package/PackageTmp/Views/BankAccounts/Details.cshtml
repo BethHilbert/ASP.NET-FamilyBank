@@ -1,0 +1,291 @@
+﻿@using GenieBank.Models
+@model GenieBank.Models.BankAccount
+
+@{
+	ViewBag.Title = "Account Details";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "BankAccounts")"> Account List</a></li>
+		<li class="active">@Model.Name's Account Details</li>
+	</ol>
+</nav>
+
+
+<h2>@Model.Name's Account Details</h2>
+<p>
+	@Html.ActionLink("Edit Account", "Edit", new { id = Model.Id }) |
+	@if (Model.CurrentBalanceWithInterest() <= 0)
+	{
+		@Html.ActionLink("Delete Bank Account", "Delete", new { id = Model.Id })
+	}
+</p>
+
+<div>
+
+	<hr />
+	<dl class="dl-horizontal">
+		<dt>
+			@Html.DisplayNameFor(model => model.OwnerEmail)
+		</dt>
+
+		<dd>
+			@Model.OwnerEmail
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.RecipientEmail)
+		</dt>
+
+		<dd>
+			@Model.RecipientEmail
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.Name)
+		</dt>
+
+		<dd>
+			@Model.Name
+		</dd>
+		<dt>
+			@Html.DisplayNameFor(model => model.OpenDate)
+		</dt>
+
+		<dd>
+			@Model.OpenDate
+		</dd>
+	</dl>
+</div>
+<hr />
+<div class="row">
+
+	<div class="progress">
+		<div class="progress-bar progress-bar-success" role="progressbar" style="width:@(Model.PercentPrinciple()*100)%">
+			Principle: @Model.Principle().ToString("C")
+		</div>
+		<div class="progress-bar progress-bar-primary" role="progressbar" style="width:@(Model.PercentInterest()*100)%">
+			Interest: @Model.YearToDateInterestEarned().ToString("C")
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<dt>
+			Current Balance With Interest
+		</dt>
+
+		<dd>
+			@Model.CurrentBalanceWithInterest().ToString("C")
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.InterestRate)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.InterestRate)
+		</dd>
+
+		<dt>
+			Principle
+		</dt>
+
+		<dd>
+			@Model.Principle().ToString("C")
+		</dd>
+	</div>
+	<div class="col-md-4">
+		<h2>
+			<dt>
+				Interest Earned
+			</dt>
+
+			<dd>
+				@Model.YearToDateInterestEarned().ToString("C")
+			</dd>
+		</h2>
+	</div>
+
+	<div class="col-md-4">
+
+		@if (Model.YearToDateInterestEarned() >= 10)
+		{
+			<h3>
+				<p>Congrats! You did it! You have earned over $10 in interest! </p>
+			</h3>
+			<img src="~/Content/images/CongratsYouDidIt.jpg" alt="Congrats You Did It!" width="350" height="175" />
+		}
+
+	</div>
+</div>
+
+
+<div>
+	<hr />
+	<h3>Transactions</h3>
+    @if (User.Identity.Name == Model.OwnerEmail)
+    {
+        <a href="@Url.Action("Create", "Transactions", new{recipient = Model.Name, bankAccountId = Model.Id})">Add A Transaction</a>
+    }
+	<table class="table">
+		<tr>
+			<th>
+				Date
+			</th>
+			<th>
+				Amount
+			</th>
+			<th>
+				Note
+			</th>
+			<th>
+			</th>
+		</tr>
+@if (Model.Transactions == null || Model.Transactions.Count == 0)
+{
+	<div class="alert alert-info">No transactions for this account.</div>
+}
+else
+{
+		foreach (var trans in Model.Transactions.OrderBy(t => t.TransactionDate))
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => trans.TransactionDate)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => trans.Amount)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => trans.Note)
+				</td>
+				<td>
+                    @if (User.Identity.Name == Model.OwnerEmail)
+					{
+                        <a href="@Url.Action("Edit", "Transactions", new { id = trans.Id })">Edit |</a>
+					} 
+                    @if (User.Identity.Name == Model.OwnerEmail)
+					{
+                        <a href="@Url.Action("Details", "Transactions", new { id = trans.Id })">Details |</a>
+					}
+                    @if (User.Identity.Name == Model.OwnerEmail)
+					{
+                        <a href="@Url.Action("Delete", "Transactions", new { id = trans.Id })">Delete</a>
+					}
+				</td>
+			</tr>
+		}
+}
+	</table>
+</div>
+<hr />
+<h3>Wishes</h3>
+<a href="@Url.Action("Create", "Wishes", new{recipient = Model.Name, bankAccountId = Model.Id})">Add A Wish</a>
+<p><a href="@Url.Action("Index", "Wishes", new{recipient = Model.Name, bankAccountId = Model.Id})">Search For A Wish</a></p>
+<table class="table">
+	<tr>
+
+		<th>
+			Description
+		</th>
+		<th>
+			Cost
+		</th>
+		<th>
+			Balance After Purchase
+		</th>
+		<th>
+			Progress
+		</th>
+		<th>
+			Website Link
+		</th>
+		<th>
+			Date Added
+		</th>
+		<th>
+			Purchased
+		</th>
+
+		<th>
+		</th>
+	</tr>
+@if (Model.Wishes == null || Model.Wishes.Count == 0)
+{
+	<div class="alert alert-info">No wishes for this account.</div>
+}
+else
+{
+	foreach (var wish in Model.Wishes.OrderBy(w => w.Cost))
+	{
+		<tr>
+			<td>
+				@Html.DisplayFor(modelItem => wish.Description)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => wish.Cost)
+			</td>
+			<td>
+				@{
+					var color = "green";
+					if (wish.BalanceAfterPurchase() < 0)
+					{
+						color = "red";
+					}
+					<span style="color:@color; font-weight: bolder;">@wish.BalanceAfterPurchase().ToString("C")</span>
+				}
+			</td>
+			<td>
+				@{
+					if (wish.BalanceAfterPurchase() < 0)
+					{
+						<div class="progress">
+							<div class="progress-bar progress-bar-success" role="progressbar" style="width:@(wish.WishPercentBalance() * 100)%">
+								Balance
+							</div>
+							<div class="progress-bar progress-bar-danger" role="progressbar" style="width:@(wish.WishPercentAmountNeeded() * 100)%">
+								Needed
+							</div>
+						</div>
+					}
+					if (wish.BalanceAfterPurchase() >= 0)
+					{
+						<p> You can afford this wish!</p>
+					}
+				}
+			</td>
+
+			<td>
+				@Html.DisplayFor(modelItem => wish.WebsiteLink)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => wish.WishDate)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => wish.Purchased)
+			</td>
+
+			<td>
+				@if (User.Identity.Name == Model.OwnerEmail || User.Identity.Name == Model.RecipientEmail)
+				{
+                    <a href="@Url.Action("Edit", "Wishes", new { id = wish.Id })">Edit |</a> 
+				} 
+                @if (User.Identity.Name == Model.OwnerEmail || User.Identity.Name == Model.RecipientEmail)
+				{
+                    <a href="@Url.Action("Details", "Wishes", new { id = wish.Id })">Details |</a> 
+				} 
+                @if (User.Identity.Name == Model.OwnerEmail || User.Identity.Name == Model.RecipientEmail)
+				{
+                    <a href="@Url.Action("Delete", "Wishes", new { id = wish.Id })">Delete</a>
+				}
+			</td>
+		</tr>
+		}
+	}
+</table>
+
+<div>
+    <p><a href="@Url.Action("Index", "BankAccounts")">Return to Account List</a></p>
+</div>

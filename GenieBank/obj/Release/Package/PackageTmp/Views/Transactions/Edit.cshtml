@@ -1,0 +1,85 @@
+﻿@model GenieBank.Models.Transaction
+
+@{
+    ViewBag.Title = "Edit Transaction";
+}
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "BankAccounts", new { id = Model.BankAccountId})">Bank Account List</a></li>
+		<li><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">@Model.BankAccount.Name's Account Details</a></li>
+		<li class="active">Edit Transaction</li>
+	</ol>
+</nav>
+
+<h2>Edit Transaction</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.BankAccountId, "BankAccountId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.BankAccountId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.HiddenFor(model => model.BankAccountId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.BankAccountId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Account, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.BankAccount.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.HiddenFor(model => model.BankAccount.Name, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Amount, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Amount, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Amount, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Note, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Note, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Note, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+		<div class="form-group">
+			@Html.LabelFor(model => model.TransactionDate, htmlAttributes: new { @class = "control-label col-md-2" })
+			<div class="col-md-10">
+				@Html.EditorFor(model => model.TransactionDate, new { htmlAttributes = new { @class = "form-control" } })
+				@Html.ValidationMessageFor(model => model.TransactionDate, "", new { @class = "text-danger" })
+			</div>
+		</div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+	<p><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">Return To Account Details</a></p>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

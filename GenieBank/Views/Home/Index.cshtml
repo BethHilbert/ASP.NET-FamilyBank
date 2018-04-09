@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li class="active">Home</li>
+	</ol>
+</nav>
+
+<div class="row">
+	<div class="col-md-4">
+		<h4>Genie is a web based application to record deposts and withdraws into an account. The target audience is parents wanting to teach their kids to save. Children can add a wish list they want to spend their money on.</h4> 
+		<a href="@Url.Action("Index","BankAccounts")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-piggy-bank"></span> Go To List of Your Accounts</a>
+		<br />
+		<img src="~/Content/images/risingstock.jpg" alt="Rising Stock" width="350" height="70" />
+		<br />
+		<br />
+		Check out the games, articles, and financial calculators - we have something for Kids, Teens, and Parents!
+		<a href="@Url.Action("FinancialResources","Home")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-book"></span> Games, Articles, and Financial Calculators </a>
+	
+	</div>
+	
+	<div class="col-md-4">
+		<div class="carousel slide" data-ride="carousel" id="featured">
+			<div class="carousel-inner">
+				<div class="item active">
+					<img src="~/Content/images/genie3.jpg" alt="Genie Wishes" />
+				</div>
+				<div class="item">
+					<img src="~/Content/images/lamp4.jpg" alt="Genie Lamp 4" />
+				</div>
+				<div class="item">
+					<img src="~/Content/images/genie2.jpg" alt="Genie 2" />
+				</div>
+				<div class="item">
+					<img src="~/Content/images/lamp2.jpg" alt="Lamp 2" />
+				</div>
+				
+			</div><!--carousel inner-->
+			<a class="left carousel-control"
+			   href="#featured" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left"></span>
+			</a>
+			<a class="right carousel-control"
+			   href="#featured" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>
+		</div><!--carousel -->
+	</div>
+
+	<div class="col-md-4">
+		<h4>Sounds great. Sign me up!</h4>
+		<p>In order to start an account, the parent must register their email address on our website. </p>
+		<a href="@Url.Action("Register","Account")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-plus"></span> Create Parent Login</a>
+		<br/>
+		<p>Once the parent has registered, create a separate savings account for each recipient. </p>
+		<a href="@Url.Action("Index","BankAccounts")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-piggy-bank"></span> Set Up Savings Account For A Recipient</a>
+		<br/>
+		<p>After a savings account has been created, each recipient must register their email address on our website to access their individual features.</p>
+		<a href="@Url.Action("Register","Account")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-plus"></span> Create Recipient Login </a>
+
+		<img src="~/Content/images/growingmoney.jpg" alt="Growing Money" width="350" height="175" /> 
+		<br />
+	</div>
+</div>
+<br/>
+<script scr="js/script.js"></script>
+
+

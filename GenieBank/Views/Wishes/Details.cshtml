@@ -1,0 +1,84 @@
+﻿@model GenieBank.Models.Wish
+
+@{
+    ViewBag.Title = "Wish Details";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "BankAccounts", new { id = Model.BankAccountId})">Bank Account List</a></li>
+		<li><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">@Model.BankAccount.Name's Account Details</a></li>
+		<li class="active">Wish Details</li>
+	</ol>
+</nav>
+
+<h2>Wish Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BankAccount.OwnerEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BankAccount.OwnerEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Account)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BankAccount.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WebsiteLink)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WebsiteLink)
+        </dd>
+		<dt>
+			@Html.DisplayNameFor(model => model.WishDate)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.WishDate)
+		</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Purchased)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Purchased)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit Wish", "Edit", new { id = Model.Id })
+</p>
+
+<div>
+	<p><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">Return To Account Details</a></p>
+</div>

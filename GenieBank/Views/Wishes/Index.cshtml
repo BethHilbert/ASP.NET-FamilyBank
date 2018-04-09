@@ -1,0 +1,95 @@
+﻿@model IEnumerable<GenieBank.Models.Wish>
+
+@{
+    ViewBag.Title = "Wish List";
+}
+
+<nav class="breadcrumb">
+    <ol class="breadcrumb">
+        <li><a href="@Url.Action("Index","Home")">Home</a></li>
+        <li><a href="@Url.Action("Index", "BankAccounts", new { id = ViewBag.BankAccountId})">Bank Account List</a></li>
+        <li><a href="@Url.Action("Details", "BankAccounts", new { id = ViewBag.BankAccountId})">Account Details</a></li>
+        <li class="active">Wish Details</li>
+    </ol>
+</nav>
+<h2>Wish List</h2>
+
+<p>
+	@using (Html.BeginForm("Index", "Wishes", FormMethod.Get))
+	{
+        
+		<p>
+        @Html.Hidden("BankAccountId", (int?) ViewBag.BankAccountId)
+		Description: @Html.TextBox("searchString")
+		Cost: @Html.TextBox("searchCost")
+		<input type = "submit" value = "Filter" />
+		</p>
+	}
+</p>
+
+<table class="table">
+    <tr>
+        <th>Actions
+		</th>
+		<th>
+            @Html.DisplayNameFor(model => model.Account)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cost)
+        </th>
+        <th>
+            Balance After Purchase
+        </th>
+		<th>
+			@Html.DisplayNameFor(model => model.WishDate)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Purchased)
+		</th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.WebsiteLink)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+		<td>
+			@Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+			@Html.ActionLink("Details", "Details", new { id = item.Id }) |
+			@Html.ActionLink("Delete", "Delete", new { id = item.Id })
+		</td>
+        <td>
+            @item.BankAccount.Name
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cost)
+        </td>
+        <td>
+            @item.BalanceAfterPurchase()
+        </td>
+		<td>
+			@Html.DisplayFor(modelItem => item.WishDate)
+		</td>
+		<td>
+			@Html.DisplayFor(modelItem => item.Purchased)
+		</td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.WebsiteLink)
+        </td>
+
+    </tr>
+}
+
+</table>
+
+<div>
+	<p><a href="@Url.Action("Details", "BankAccounts", new { id = ViewBag.BankAccountId})">Back To Account Details</a></p>
+</div>

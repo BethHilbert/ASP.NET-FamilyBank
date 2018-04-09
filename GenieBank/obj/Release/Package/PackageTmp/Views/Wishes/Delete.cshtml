@@ -1,0 +1,90 @@
+﻿@model GenieBank.Models.Wish
+
+@{
+    ViewBag.Title = "Delete Wish";
+}
+
+<nav class="breadcrumb">
+	<ol class="breadcrumb">
+		<li><a href="@Url.Action("Index","Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "BankAccounts", new { id = Model.BankAccountId})">Bank Account List</a></li>
+		<li><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">@Model.BankAccount.Name's Account Details</a></li>
+		<li class="active">Delete a Wish</li>
+	</ol>
+</nav>
+
+<h2>Delete Wish</h2>
+
+<h3>Are you sure you want to delete this wish?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BankAccount.OwnerEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BankAccount.OwnerEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Account)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Account)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WebsiteLink)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WebsiteLink)
+        </dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.WishDate)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.WishDate)
+		</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Purchased)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Purchased)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" />
+        </div>
+    }
+</div>
+<div>
+	<p><a href="@Url.Action("Details", "BankAccounts", new { id = Model.BankAccountId})">Return To Account Details</a></p>
+</div>

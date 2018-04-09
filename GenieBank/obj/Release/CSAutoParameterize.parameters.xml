@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Server=sql1.gtt.me;Database=db_424d605471c34a619a25a29a6d155051;User Id=U_424d605471c34a619a25a29a6d155051;Password=pwd_424d605471c34a619a25a29a6d155051" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\7012\ \(main\ on\ laptop\)\\GenieBank\\GenieBank\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
